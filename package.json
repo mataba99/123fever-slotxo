@@ -1,0 +1,19 @@
+{
+  "name": "123fever-slotxo",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "main": "123fever เว็บตรงสล็อต มาแรง เล่นง่าย สมัครรับโบนัสฟรี100%",
+  "description": "123fever เว็บตรงสล็อต มาแรง เล่นง่าย สมัครรับโบนัสฟรี100%",
+  "keywords": [
+    "123fever",
+    "ทางเข้า123fever",
+    "123fever auto",
+    "ทางเข้าslotxo joker123",
+    "123fever สล็อต ฝาก10รับ100"
+  ],
+  "repository": "https://github.com/mataba99/123fever-slotxo",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
